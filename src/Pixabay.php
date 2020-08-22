@@ -2,6 +2,7 @@
 
 namespace Pixabay;
 
+use Exception;
 use GuzzleHttp\Client as GuzzleClient;
 use GuzzleHttp\TransferStats;
 class Client 

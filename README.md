@@ -1,13 +1,13 @@
 ## Pixabay Api PHP 
 [Pixabay](pixabay.com) için php api.
 
-Kurulum
+### Kurulum
 ```bash
     //
 ```
 
 
-Basit Kullanım
+### Basit Kullanım
 ```php
     require_once "./vendor/autoload.php";
 
@@ -24,3 +24,5 @@ Basit Kullanım
 
     print_r($response->hits);
 ```
+
+#### [Dökümantasyon](https://github.com/ahmetbarut/pixabay-api-php/wiki)
