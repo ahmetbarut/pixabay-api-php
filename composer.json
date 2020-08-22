@@ -9,7 +9,6 @@
             "email": "ahmetbarut588@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
     "require": {
         "guzzlehttp/guzzle": "^7.0"
     },
