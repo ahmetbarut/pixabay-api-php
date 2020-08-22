@@ -1,0 +1,21 @@
+{
+    "name": "ahmetbarut/pixabay",
+    "type": "library",
+    "version": "1",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ahmet Barut",
+            "email": "ahmetbarut588@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Pixabay\\" : "src"
+        }
+    }
+}
