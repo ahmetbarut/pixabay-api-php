@@ -2,8 +2,8 @@
 [Pixabay](pixabay.com) için php api.
 
 ### Kurulum
-```bash
-    //
+```bas
+    composer require ahmetbarut/pixabay:dev-master
 ```
 
 
