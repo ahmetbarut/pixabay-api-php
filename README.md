@@ -3,7 +3,7 @@
 
 ### Kurulum
 ```bas
-    composer require ahmetbarut/pixabay:dev-master
+    composer require ahmetbarut/pixabay
 ```
 
 
